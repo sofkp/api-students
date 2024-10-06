@@ -1,2 +1,2 @@
 # api-students
-repositorio para ejercicio de Cloud Computing 
+Repositorio para ejercicio del curso Cloud Computing
